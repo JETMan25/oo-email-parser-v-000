@@ -9,4 +9,6 @@ class EmailParser
       @emails = emails
   end
   
+  def parse
+    email_array = 
 end
